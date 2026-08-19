@@ -91,7 +91,7 @@ Screenshots of the completed portfolio will be added here after the website is d
 
 ## Live Demo
 
-The live demo link will be added after deployment.
+(https://sudhaharini05.github.io/PortfolioSudhaHarini/)
 
 ## How to Run
 
