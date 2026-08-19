@@ -276,33 +276,6 @@ body {
   margin: 0;
 }
 
-/* Contact Section Styles */
-
-.contact-section {
-  padding: 5rem 0;
-  background-color: #f8fafc;
-}
-
-#contactForm {
-  padding: 2rem;
-  background-color: #ffffff;
-  border: 1px solid #e2e8f0;
-  border-radius: 1rem;
-}
-
-.form-label {
-  font-weight: 600;
-}
-
-.form-control {
-  padding: 0.75rem 1rem;
-}
-
-.form-control:focus {
-  border-color: #0f172a;
-  box-shadow: 0 0 0 0.2rem rgba(15, 23, 42, 0.15);
-}
-
 /* Footer Section Styles */
 
 .footer {
@@ -379,9 +352,7 @@ section {
   color: #dc3545;
 }
 
-/* ========================================
-   THEME TOGGLE
-======================================== */
+/* Theme Toggle */
 
 .theme-toggle {
   border: none;
@@ -396,9 +367,7 @@ section {
   opacity: 0.8;
 }
 
-/* ========================================
-   DARK THEME - DEFAULT
-======================================== */
+/* Dark Theme */
 
 /* Body */
 

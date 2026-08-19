@@ -18,7 +18,6 @@ The primary goal of this project is not only to create a professional portfolio 
 * Education section
 * Certifications section
 * Resume preview and download
-* Contact form with JavaScript validation
 * Dark/Light theme toggle
 * Smooth scrolling
 * Active navigation highlighting
@@ -119,7 +118,6 @@ Through this project, I aim to gain practical experience in:
 * Bootstrap 5
 * Vanilla JavaScript
 * DOM manipulation
-* Form validation
 * Local Storage
 * Browser Developer Tools
 * Git and GitHub
