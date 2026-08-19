@@ -75,7 +75,6 @@ Portfolio/
 
 ## Screenshots
 
-Screenshots of the completed portfolio will be added here after the website is developed.
 
 ### Desktop
 
